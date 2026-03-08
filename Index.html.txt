@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Roxxon Weather</title>
+</head>
+<link rel="stylesheet" href="style.css">
+<script src="script.js" defer></script>
+<body>
+
+<h1>Roxxon Weather</h1>
+
+<input id="city" placeholder="Enter a city">
+<button onclick="getWeather()">Get Weather</button>
+
+<p id="weather"></p>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
+<h1>Weather App</h1>
+<p>Temperature: <span id="temperature">--</span></p>
+<p>Condition: <span id="condition">--</span></p>
+<input type="text" id="cityInput" placeholder="Enter city">
+<button onclick="getWeather()">Check Weather</button>
