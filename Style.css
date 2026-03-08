@@ -45,3 +45,14 @@ button:hover {
   margin-top: 20px;
   font-size: 18px;
 }
+body {
+  font-family: "Times New Roman", serif;
+  text-align: center;
+  background: linear-gradient(to bottom, #87ceeb, #fff);
+  color: red;
+}
+
+h1 {
+  font-size: 2em;
+  margin-top: 20px;
+}
