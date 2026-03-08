@@ -17,4 +17,4 @@ A simple weather app that shows the current temperature and weather conditions f
 
 1. **Clone or download this repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/weather-app.git
+git clone https://github.com/player586/weather-app.git
